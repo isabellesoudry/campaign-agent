@@ -4,10 +4,6 @@ A lifecycle marketing agent that evaluates your campaign brief for completeness
 and automatically generates a compliance approval deck — without manual formatting 
 or copy-pasting.
 
-Built by a lifecycle marketer with 5+ years experience at Cash App, Klarna, and 
-Givenchy. This is a simplified portfolio version of a production tool originally 
-built at Cash App using Google Apps Script and the Figma API.
-
 ---
 
 ## The Problem It Solves
