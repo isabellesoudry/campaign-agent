@@ -13,7 +13,7 @@ Before a campaign can launch, marketers typically need to:
 2. Build a compliance/bank approval deck by hand
 3. Copy-paste copy from the brief into slides one by one
 
-This takes 4–6 hours per campaign. This agent does it in seconds.
+This agent does it in seconds.
 
 ---
 
