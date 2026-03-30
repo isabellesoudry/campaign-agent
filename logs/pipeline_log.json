@@ -1,0 +1,20 @@
+[
+  {
+    "campaign_name": "Prospect Incentive Onboarding",
+    "deliverables": 13,
+    "eval_score": 72,
+    "eval_passed": true,
+    "gaps": [
+      "DRI (directly responsible individual) is missing - critical for accountability",
+      "Launch date is vague (Q4 2026) - no specific date for scheduling",
+      "Push notifications lack subject lines/titles (10 of 13 deliverables)",
+      "No preview text provided for email deliverables",
+      "Body copy missing for all 13 deliverables",
+      "Segment criteria not explicitly defined with inclusion/exclusion rules",
+      "Segment sizes not provided for capacity planning",
+      "Campaign start date needed for legal disclaimer accuracy",
+      "No send timing or cadence specified between deliverables",
+      "House ad creative specifications not included"
+    ]
+  }
+]
